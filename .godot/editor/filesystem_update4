@@ -1,0 +1,4 @@
+res://zombie/zombie.gd
+res://Enemies/skeleton.gd
+res://State Machines/basic_choose_and_follow_enemy_state_machine.gd
+res://Utility/hurtbox.gd
